@@ -1,6 +1,6 @@
 # 💻 Sriram Sathwik Tippavaram
 
-🚀 Graduate Student | Master's in Data Science | Passionate about AI, Machine Learning, and Cloud Computing
+🚀 Graduate Student | Master's in Data Science | Data Aanalyst certified by Google | Passionate about AI, Machine Learning, and Cloud Computing
 
 ---
 
