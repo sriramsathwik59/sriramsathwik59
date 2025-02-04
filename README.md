@@ -50,4 +50,4 @@
 
 ## 🌟 Let's Connect!
 
-- 📧 Email: sriram.tippavaram@example.com (Replace with your actual email)
+- 📧 Email: sriramsathwik59@gmail.com
