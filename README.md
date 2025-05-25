@@ -28,7 +28,7 @@
 ### 🩺 **AI Healthcare Chatbot**
 - **Tech Stack:** Python, Flask, Jupyter Notebook
 - **Description:** A chatbot for healthcare advice with plans for future expansion.
-- [Project Repository](#) (Add link once available)
+- (https://github.com/Shrihan999/Capstone_Project)
 
 ### 📊 **Machine Learning on AWS**
 - **Tech Stack:** AWS Cloud9, S3, Glue, SageMaker
